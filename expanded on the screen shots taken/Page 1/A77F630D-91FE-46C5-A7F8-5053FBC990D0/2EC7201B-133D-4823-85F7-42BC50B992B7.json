@@ -1,0 +1,103 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 6
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1354,
+        "location": 0
+      }
+    ],
+    "string": "Becuase of this I dont have the screenshots that show the problems with the veiwing of the manga itself. However here is the list of the problems that occur when useing the main feature of this app.\n\n1) There is no actual guide on how to read the manga. You have to swipe from left to right to continue on. HOWEVER if you touch the screen on the right side the page will jump backwards, and if you tap on the left it jumps forwards. \n2) in order to bring up the ‘guide’ you have to tap exactly in the middle of the screen. when doing this the ‘guide’ pops up for 3 seconds and then goes away. When you click on the ‘start guide’ it zooms into the first panel of the manga, and goes through each part as you swipe/tap the direction you want to go. You can only exit the guide by once again tapping in the center and hitting exit guide.\n3) the only way to bookmark something is by tapping the center and hitting the bookmark icon in the top right corner. If you leave the app at any point of time and close it your place is lost. (if there is a problem with the phone or it restarts or dies your place is lost)\n4) There is a scroll bar on the bottom that can take you through the chapter with the pages, this would work well if the scroll bar wasnt so touchy, becuase combined with the lag when useing it you can jump quite a few more pages than intended.\n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EC7201B-133D-4823-85F7-42BC50B992B7",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 146,
+    "width": 208,
+    "x": 409,
+    "y": 167
+  },
+  "glyphBounds": "{{0, 1}, {208, 146}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Becuase of this I do",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Helvetica",
+            "size": 6
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

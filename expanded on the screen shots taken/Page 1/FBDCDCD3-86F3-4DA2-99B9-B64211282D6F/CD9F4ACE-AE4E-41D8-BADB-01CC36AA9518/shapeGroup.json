@@ -1,0 +1,141 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD9F4ACE-AE4E-41D8-BADB-01CC36AA9518",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 403,
+    "width": 228,
+    "x": 49,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "56859D84-287A-49DB-A89C-2BF21FF617BF"
+    },
+    {
+      "class": "oval",
+      "id": "3BA92C7D-A03A-40CD-B45C-64EB8EA1F817"
+    },
+    {
+      "class": "oval",
+      "id": "C5EF0B82-3F00-49C6-95A5-7F4BCBF2E377"
+    },
+    {
+      "class": "oval",
+      "id": "A5EA4675-5DA5-4CF3-B6E6-9EB2C95155CF"
+    },
+    {
+      "class": "oval",
+      "id": "EEB12473-15F1-46CA-BA21-9AC275C79A5A"
+    },
+    {
+      "class": "oval",
+      "id": "7E4067C4-FE15-44D7-9A69-124761CD4E6B"
+    },
+    {
+      "class": "oval",
+      "id": "CFBB8822-C07E-450E-AD09-209B9879662F"
+    },
+    {
+      "class": "oval",
+      "id": "70F26938-A24A-4221-A7D4-81B93966197A"
+    },
+    {
+      "class": "oval",
+      "id": "5F421826-785B-418C-ACA3-C1C9A51EB806"
+    },
+    {
+      "class": "oval",
+      "id": "FFB5E411-2721-4B08-A7D1-4DEC796AC75F"
+    },
+    {
+      "class": "oval",
+      "id": "5B87EE11-FB50-4091-9DAC-39561FD4C927"
+    },
+    {
+      "class": "oval",
+      "id": "23FB1178-513D-4BFA-BFCD-63F02FD28D2D"
+    },
+    {
+      "class": "oval",
+      "id": "BF1FC86E-A1DA-4520-B9E0-375DA173F4CB"
+    },
+    {
+      "class": "oval",
+      "id": "86CF3839-196D-486B-99A3-CF48882CFD32"
+    },
+    {
+      "class": "oval",
+      "id": "BF868D7B-926F-4585-AED9-D02DD228737C"
+    }
+  ],
+  "name": "Oval 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
